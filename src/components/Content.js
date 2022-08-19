@@ -5,11 +5,12 @@ import { stories } from '../data';
 const Content = () => {
   return (
     <section>
+      {/* fetch data from src/data.js */}
       {stories.slice(0, 1).map((storyContent) => (
-        <div class="px-15 py-2 my-2 mx-auto max-w-5xl border">
+        <div class="px-15 py-2 my-2 mx-auto max-w-5xl border bg-white">
           <img
             className="object-cover h-48 w-full px-2 rounded-tr-xxl"
-            src={'https://picsum.photos/200/300'}
+            src={storyContent.coverImage}
             alt=""
           />
           <div className="px-5 py-5">
@@ -19,13 +20,13 @@ const Content = () => {
             <div>
               <img
                 className="inline w-8 h-8 rounded-full"
-                src="https://picsum.photos/536/354"
+                src={storyContent.author.profileImage}
                 alt=""
               />
               <span className="ml-2">{storyContent.author.name}</span>
             </div>
             <div>
-              <span className="self-center text-sm">
+              <span className="self-center text-sm text-[#BCB8B1]">
                 <span>{storyContent.created}</span>
               </span>
             </div>

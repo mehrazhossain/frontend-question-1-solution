@@ -4,8 +4,12 @@ export const stories = [
       'This text is for our article title, sometime it should be long as like this',
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
-    coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    coverImage:
+      'https://i.pinimg.com/originals/42/8b/cf/428bcf17fd0f3321dad9f731bbd9bb5a.jpg',
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Travel for explore' },
     hashtags: ['#Website ', '#Design ', '#Dev_Web ', '#Adobe_Photoshop'],
     type: 'long',
@@ -18,7 +22,10 @@ export const stories = [
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
     coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Josephite Language & Reading Club' },
     hashtags: ['#Website', '#Design', '#Dev_Web', '#Adobe_Photoshop'],
     type: 'long',
@@ -29,7 +36,10 @@ export const stories = [
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
     coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Travel for explore' },
     type: 'short',
     created: 'Jul 05, 2022 | 11:00 PM',
@@ -39,7 +49,10 @@ export const stories = [
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
     coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Josephite Language & Reading Club' },
     type: 'short',
     created: 'Jul 06, 2022 | 11:00 PM',
@@ -49,7 +62,10 @@ export const stories = [
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
     coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Travel for explore' },
     type: 'short',
     created: 'Aug 13, 2022 | 11:00 PM',
@@ -59,7 +75,10 @@ export const stories = [
     content:
       'Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact. Our journey began on the 7th September of 2010. Mumshad Nahiyan, Raiyaan Abdullah, Rusab Sarmun and Raiann Rahman Shuvro, a group of boys casually sitting in their classroom decided to embark on a journey to establish a tech company. We initially thought of selling Game CDs. Then we realized our team needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while needed a logo which lead us towards learning Adobe Photoshop and we Here we believe in dreaming as a team, grooming our skills and advancing towards perfection while providing quality service to our customers. All the good things in the world are simple. So we always prefer to maintain simplicity while delivering proper impact.',
     coverImage: '/src/assets/images/cover.svg',
-    author: { name: 'Michael Scott', profileImage: '/images/author.png' },
+    author: {
+      name: 'Michael Scott',
+      profileImage: 'https://randomuser.me/api/portraits/men/78.jpg',
+    },
     community: { name: 'Travel for explore' },
     type: 'short',
     created: 'Aug 18, 2022 | 12:00 PM',
@@ -70,7 +89,7 @@ export const stories = [
 export const users = [
   {
     name: 'Michael Scott',
-    profileImage: '/images/author.png',
+    profileImage: 'https://randomuser.me/api/portraits/men/26.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 39,
@@ -79,7 +98,7 @@ export const users = [
   },
   {
     name: 'Pam Beesly',
-    profileImage: '/images/author.png',
+    profileImage: 'https://randomuser.me/api/portraits/men/26.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 89,
@@ -88,7 +107,7 @@ export const users = [
   },
   {
     name: 'Michael Scott',
-    profileImage: '/images/author.png',
+    profileImage: 'https://randomuser.me/api/portraits/men/26.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 39,
@@ -100,7 +119,7 @@ export const users = [
 export const communities = [
   {
     name: 'Josephite Language & Reading Club',
-    profileImage: '/images/community.png',
+    profileImage: 'https://randomuser.me/api/portraits/women/81.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 390,
@@ -109,7 +128,7 @@ export const communities = [
   },
   {
     name: 'Travel for explore',
-    profileImage: '/images/community.png',
+    profileImage: 'https://randomuser.me/api/portraits/women/51.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 890,
@@ -118,7 +137,7 @@ export const communities = [
   },
   {
     name: 'Josephite Language & Reading Club',
-    profileImage: '/images/community.png',
+    profileImage: 'https://randomuser.me/api/portraits/women/72.jpg',
     bio: "Don't ever, for any reason, do anything to anyone for any reason ever, no matter what",
     summary: {
       stories: 390,
