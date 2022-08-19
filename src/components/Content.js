@@ -9,7 +9,7 @@ const Content = () => {
         <div class="px-15 py-2 my-2 mx-auto max-w-5xl border">
           <img
             className="object-cover h-48 w-full px-2 rounded-tr-xxl"
-            src="https://picsum.photos/200/300"
+            src={'https://picsum.photos/200/300'}
             alt=""
           />
           <div className="px-5 py-5">
