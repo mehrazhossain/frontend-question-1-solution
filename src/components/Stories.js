@@ -11,7 +11,7 @@ const Stories = () => {
             <h1 class="mb-4 text-3xl font-bold leading-tight text-gray-900 md:text-xl md:leading-none tracking-none md:tracking-tight">
               {story.title}
             </h1>
-            <div class="flex flex-row justify-between">
+            <div class="flex flex-row justify-between px-2">
               <div>
                 <img
                   className="inline w-8 h-8 rounded-full"
